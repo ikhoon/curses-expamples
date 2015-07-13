@@ -1,10 +1,10 @@
-# Write Programmer Guilde To Ncurses `C lang Examples` in Ruby
-![guide-to-ncurses](http://ecx.images-amazon.com/images/I/418nX%2B59vKL._SX395_BO1,204,203,200_.jpg)
-
+# Programmer Guilde To Ncurses in Ruby
 `Write Programmer Guilde To Ncurses` has good examples written in c lang.
 But Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) gives more simple and easy to use.
 
-## With c ncurses api
+![guide-to-ncurses](http://ecx.images-amazon.com/images/I/418nX%2B59vKL._SX395_BO1,204,203,200_.jpg)
+
+## C ncurses example
 ```c
 // annoy.c
 
@@ -37,7 +37,7 @@ int main(void) {
 }
 ```
 
-## With ruby ncurses api
+## Ruby ncurses example 
 ```ruby
 #!/usr/bin/env ruby
 # annoy.rb
@@ -68,4 +68,5 @@ close_screen
 
 ## Excute Result   
 Both ruby & c code produce same output
+
 ![annoy-result](./docs/annoy-result.png)
