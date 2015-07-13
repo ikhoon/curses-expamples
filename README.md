@@ -7,8 +7,8 @@
 
 Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) is not only easy to use and sample but also gives same output.
 
-## Output of Execution   
-Both ruby & c code produce same output
+## Expected Output of Execution   
+Ruby & C code will produce same output
 
 ![annoy-result](./docs/annoy-result.png)
 
