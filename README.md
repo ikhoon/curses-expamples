@@ -3,6 +3,12 @@
 
 But Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) is sample and easy to use. And also gives same output.
 
+## Output of Execution   
+Both ruby & c code produce same output
+
+![annoy-result](./docs/annoy-result.png)
+
+
 ## Ncurses in C
 ```c
 // annoy.c
@@ -65,7 +71,3 @@ getch
 close_screen
 ```
 
-## Excute Result   
-Both ruby & c code produce same output
-
-![annoy-result](./docs/annoy-result.png)
