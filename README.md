@@ -5,7 +5,7 @@
 
 [Write Programmer Guilde To Ncurses](http://www.amazon.com/Programmers-Guide-NCurses-Dan-Gookin/dp/0470107596) has good examples written in C lang.
 
-But Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) is sample and easy to use. And also gives same output.
+Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) is not only easy to use and sample but also gives same output.
 
 ## Output of Execution   
 Both ruby & c code produce same output
