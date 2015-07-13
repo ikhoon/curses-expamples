@@ -1,10 +1,9 @@
 # Programmer Guilde To Ncurses in Ruby
-`Write Programmer Guilde To Ncurses` has good examples written in c lang.
-But Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) gives more simple and easy to use.
+[Write Programmer Guilde To Ncurses](http://www.amazon.com/Programmers-Guide-NCurses-Dan-Gookin/dp/0470107596) has good examples written in C lang.
 
-![guide-to-ncurses](http://ecx.images-amazon.com/images/I/418nX%2B59vKL._SX395_BO1,204,203,200_.jpg)
+But Ruby [curses library](http://ruby-doc.org/stdlib-2.0.0/libdoc/curses/rdoc/Curses.html) is sample and easy to use. And also gives same output.
 
-## C ncurses example
+## Ncurses in C
 ```c
 // annoy.c
 
@@ -37,7 +36,7 @@ int main(void) {
 }
 ```
 
-## Ruby ncurses example 
+## Ncurses in Ruby
 ```ruby
 #!/usr/bin/env ruby
 # annoy.rb
